@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with [File Share Bot](https://github.com/wymdev/File-Sharing-Bot.git)
 
-- 👨‍💻 All of my projects are available at [https://waiyanmaing.web.app/](https://waiyanmaing.web.app/)
+- 👨‍💻 All of my projects are available at [waiyanmaing.me](https://waiyanmaing.vercel.app)
 
 - 💬 Ask me about **React Native , Laravel , Node ,React**
 
