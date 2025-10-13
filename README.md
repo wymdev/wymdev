@@ -19,6 +19,12 @@
 
 - 📫 How to reach me **waiyanmaing.dev@gmail.com**
 
+
+### 🏆 Certifications
+
+- [HackerRank Node (Basic) Certificate](https://www.hackerrank.com/certificates/5d2335dc3bfb)
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
