@@ -1,16 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=220&section=header&text=Wai%20Yan%20Maing&fontSize=55&fontColor=00F5D4&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%26%20AI%20Solution%20Architect&descAlignY=58&descSize=18" width="100%"/>
+# Wai Yan Maing
+### Full Stack Developer & AI Solution Architect
 
 <a href="https://www.waiyanmaing.space">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=900&color=00F5D4&center=true&vCenter=true&width=650&lines=Full+Stack+%7C+React+%2C+React+Native+%2C+Node+%2C+Laravel;Building+AI+systems%3A+Computer+Vision%2C+RAG%2C+Agents;Shipped%3A+Bee+Budget+%E2%80%94+live+on+Google+Play;Open+to+collaborate+%E2%80%94+let's+ship+something" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=900&color=00F5D4&center=true&vCenter=true&width=650&lines=Full+Stack+%7C+React+%2C+React+Native+%2C+Node+%2C+Laravel;Building+AI+systems%3A+Computer+Vision%2C+RAG%2C+Agents;Shipped%3A+Bee+Budget+%E2%80%94+live+on+Google+Play;Open+to+collaborate+%E2%80%94+let's+ship+something" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=wymdev&label=PROFILE%20VIEWS&color=00F5D4&style=for-the-badge" alt="profile views"/>
 <a href="https://www.hackerrank.com/certificates/5d2335dc3bfb"><img src="https://img.shields.io/badge/HackerRank-Node.js%20Certified-00F5D4?style=for-the-badge&logo=hackerrank&logoColor=black" /></a>
 <a href="mailto:waiyanmaing.dev@gmail.com"><img src="https://img.shields.io/badge/Contact-Email%20Me-302B63?style=for-the-badge&logo=gmail&logoColor=00F5D4" /></a>
+<br/>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=wymdev.wymdev&style=for-the-badge&color=00F5D4" alt="profile views"/>
 
 </div>
 
@@ -95,7 +97,7 @@ status: "Open to interesting problems"
 | Status | Project | Description |
 |:---:|---|---|
 | ✅ | **[Bee Budget](https://play.google.com/store/apps/details?id=com.xynotechmm.beebudget)** | 🟢 **Live on Google Play** — personal budget tracking app |
-| 🚀 | **[File Sharing Bot](https://github.com/wymdev/File-Sharing-Bot.git)** | Currently building — looking for collaborators |
+| 🚀 | **[File Sharing Bot](https://github.com/wymdev/filmxmm_file_bot)** | Currently building — looking for collaborators |
 | 🌐 | **[Portfolio](https://www.waiyanmaing.space)** | All projects, live and in one place |
 
 </td>
@@ -167,7 +169,5 @@ status: "Open to interesting problems"
 <br/><br/>
 
 <i>"Ask me about React, React Native, Laravel, Node.js, or AI/Computer Vision systems."</i>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243E,50:302B63,100:0F0C29&height=100&section=footer" width="100%"/>
 
 </div>
