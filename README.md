@@ -1,39 +1,127 @@
-<h1 align="center">Hi 👋, I'm Wai Yan Maing</h1>
-<h3 align="center">A passionate full stack developer from Myanmar</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wymdev&label=Profile%20views&color=0e75b6&style=flat" alt="wymdev" /> </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=220&section=header&text=Wai%20Yan%20Maing&fontSize=55&fontColor=00F5D4&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Myanmar&descAlignY=58&descSize=18" width="100%"/>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wymdev" alt="wymdev" /></a> </p>
+<a href="https://www.waiyanmaing.space">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=900&color=00F5D4&center=true&vCenter=true&width=600&lines=Building+full-stack+products+end+to+end;React+%7C+React+Native+%7C+Node+%7C+Laravel;Currently+leveling+up%3A+Project+Management;Open+to+collaborate+%E2%80%94+let's+ship+something" alt="Typing SVG" />
+</a>
 
-- 🔭 I’m currently working on [fileshare_bot](https://github.com/wymdev/File-Sharing-Bot.git)
+<br/>
 
-- 🌱 I’m currently learning **Project Management**
+<img src="https://komarev.com/ghpvc/?username=wymdev&label=PROFILE%20VIEWS&color=00F5D4&style=for-the-badge" alt="profile views"/>
+<a href="https://www.hackerrank.com/certificates/5d2335dc3bfb"><img src="https://img.shields.io/badge/HackerRank-Node.js%20Certified-00F5D4?style=for-the-badge&logo=hackerrank&logoColor=black" /></a>
+<a href="mailto:waiyanmaing.dev@gmail.com"><img src="https://img.shields.io/badge/Contact-Email%20Me-302B63?style=for-the-badge&logo=gmail&logoColor=00F5D4" /></a>
 
-- 👯 I’m looking to collaborate on [Bee Budget](https://github.com/wymdev/beebudget.git)
+</div>
 
-- 🤝 I’m looking for help with [File Share Bot](https://github.com/wymdev/File-Sharing-Bot.git)
+<br/>
 
-- 👨‍💻 All of my projects are available at [waiyanmaing.me](https://www.waiyanmaing.space)
+<table align="center" width="100%">
+<tr>
+<td width="50%" valign="top">
 
-- 💬 Ask me about **React Native , Laravel , Node ,React**
+### 🧭 About Me
 
-- 📫 How to reach me **waiyanmaing.dev@gmail.com**
+```yaml
+name: "Wai Yan Maing"
+role: "Full Stack Developer"
+based_in: "Myanmar"
+focus: ["React Native", "Laravel", "Node.js", "React"]
+currently_building: "fileshare_bot"
+currently_learning: "Project Management"
+looking_to_collab: "Bee Budget"
+status: "Open to interesting problems"
+```
 
+</td>
+<td width="50%" valign="top">
 
-### 🏆 Certifications
+### ⚡ Quick Stats
 
-- [HackerRank Node (Basic) Certificate](https://www.hackerrank.com/certificates/5d2335dc3bfb)
+<img src="https://github-readme-stats.vercel.app/api?username=wymdev&show_icons=true&theme=radical&hide_border=true&bg_color=0F0C29&title_color=00F5D4&icon_color=00F5D4&text_color=ffffff" width="100%"/>
 
+</td>
+</tr>
+</table>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+<br/>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://cordova.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cordova/apache_cordova-icon.svg" alt="apachecordova" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
+<div align="center">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wymdev&show_icons=true&locale=en&layout=compact" alt="wymdev" /></p>
+### 🛠️ Tech Arsenal
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wymdev&show_icons=true&locale=en" alt="wymdev" /></p>
+<img src="https://skillicons.dev/icons?i=react,reactnative,nodejs,php,laravel,js,html,css,bootstrap,mongodb,mysql,docker,git,figma,postman,firebase&theme=dark" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wymdev&" alt="wymdev" /></p>
+</div>
+
+<br/>
+
+<table align="center" width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 🎯 Active Missions
+
+| Status | Project | Description |
+|:---:|---|---|
+| 🚀 | **[File Sharing Bot](https://github.com/wymdev/File-Sharing-Bot.git)** | Currently building — looking for collaborators |
+| 💸 | **[Bee Budget](https://github.com/wymdev/beebudget.git)** | Looking for co-builders, join in |
+| 🌐 | **[Portfolio](https://www.waiyanmaing.space)** | All projects, live and in one place |
+
+</td>
+<td width="50%" valign="top">
+
+### 🏆 Trophy Case
+
+<img src="https://github-profile-trophy.vercel.app/?username=wymdev&theme=radical&no-frame=true&row=2&column=3" width="100%"/>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+### 📊 Contribution Streak
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=wymdev&theme=radical&hide_border=true&background=0F0C29&ring=00F5D4&fire=00F5D4&currStreakLabel=00F5D4" />
+
+</div>
+
+<br/>
+
+<table align="center" width="100%">
+<tr>
+<td width="50%" align="center">
+
+**Most Used Languages**
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=wymdev&layout=compact&theme=radical&hide_border=true&bg_color=0F0C29&title_color=00F5D4&text_color=ffffff" width="100%"/>
+
+</td>
+<td width="50%" align="center">
+
+**Activity Graph**
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=wymdev&theme=react-dark&hide_border=true&bg_color=0F0C29&color=00F5D4&line=00F5D4&point=ffffff" width="100%"/>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+### 💬 Let's Connect
+
+<a href="mailto:waiyanmaing.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.waiyanmaing.space"><img src="https://img.shields.io/badge/Portfolio-00F5D4?style=for-the-badge&logo=googlechrome&logoColor=black"/></a>
+<a href="https://www.hackerrank.com/certificates/5d2335dc3bfb"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
+
+<br/><br/>
+
+<i>"Ask me about React Native, Laravel, Node, or React — happy to talk shop."</i>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243E,50:302B63,100:0F0C29&height=100&section=footer" width="100%"/>
+
+</div>
