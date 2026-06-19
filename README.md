@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=220&section=header&text=Wai%20Yan%20Maing&fontSize=55&fontColor=00F5D4&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Myanmar&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=220&section=header&text=Wai%20Yan%20Maing&fontSize=55&fontColor=00F5D4&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%26%20AI%20Solution%20Architect&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://www.waiyanmaing.space">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=900&color=00F5D4&center=true&vCenter=true&width=600&lines=Building+full-stack+products+end+to+end;React+%7C+React+Native+%7C+Node+%7C+Laravel;Currently+leveling+up%3A+Project+Management;Open+to+collaborate+%E2%80%94+let's+ship+something" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=900&color=00F5D4&center=true&vCenter=true&width=650&lines=Full+Stack+%7C+React+%2C+React+Native+%2C+Node+%2C+Laravel;Building+AI+systems%3A+Computer+Vision%2C+RAG%2C+Agents;Shipped%3A+Bee+Budget+%E2%80%94+live+on+Google+Play;Open+to+collaborate+%E2%80%94+let's+ship+something" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -24,11 +24,12 @@
 
 ```yaml
 name: "Wai Yan Maing"
-role: "Full Stack Developer"
-based_in: "Myanmar"
-focus: ["React Native", "Laravel", "Node.js", "React"]
-currently_building: "fileshare_bot"
-currently_learning: "Project Management"
+role: "Full Stack Developer & AI Solution Architect"
+based_in: "Bangkok, Thailand"
+current_company: "Thai Beverage Public Co., Ltd."
+focus: ["React Native", "Laravel", "Node.js", "React", "AI/CV Systems"]
+shipped: "Bee Budget — live on Google Play"
+currently_building: ["fileshare_bot", "RAG knowledge bots"]
 looking_to_collab: "Bee Budget"
 status: "Open to interesting problems"
 ```
@@ -50,9 +51,38 @@ status: "Open to interesting problems"
 
 ### 🛠️ Tech Arsenal
 
-<img src="https://skillicons.dev/icons?i=react,reactnative,nodejs,php,laravel,js,html,css,bootstrap,mongodb,mysql,docker,git,figma,postman,firebase&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,reactnative,nodejs,php,laravel,js,html,css,bootstrap,mongodb,mysql,postgres,docker,kubernetes,python,git,figma,postman,firebase&theme=dark" />
 
 </div>
+
+<br/>
+
+<div align="center">
+
+### 🤖 AI & R&D Experience
+
+</div>
+
+<table align="center" width="100%">
+<tr>
+<td width="50%" valign="top">
+
+**🎯 AI Solution Architect** · *Thai Beverage PCL — 2025–Now*
+- Designed end-to-end **computer vision architecture** (YOLO + deep learning) for real-time warehouse inventory detection across supplier sites
+- Converted Go-Lang services to **Android AAR / iOS XCFramework** via `gomobile` for offline-first mobile inventory processing
+- Defined architecture patterns for AI-driven inventory systems across cross-functional & supplier teams
+
+</td>
+<td width="50%" valign="top">
+
+**🧠 AI Systems** · *Grand Royal Group Intl — 2023–2025*
+- Built an **AI-powered chatbot** (Python, OpenAI embeddings, FAISS) deployed across Web, Teams, Telegram & mobile
+- Developed a **Sales Forecasting AI Agent** using n8n, MSSQL & prompt engineering for predictive business insights
+- Led infrastructure modernization: Kubernetes, Docker, microservices
+
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -60,12 +90,12 @@ status: "Open to interesting problems"
 <tr>
 <td width="50%" valign="top">
 
-### 🎯 Active Missions
+### 🎯 Projects & Missions
 
 | Status | Project | Description |
 |:---:|---|---|
+| ✅ | **[Bee Budget](https://play.google.com/store/apps/details?id=com.xynotechmm.beebudget)** | 🟢 **Live on Google Play** — personal budget tracking app |
 | 🚀 | **[File Sharing Bot](https://github.com/wymdev/File-Sharing-Bot.git)** | Currently building — looking for collaborators |
-| 💸 | **[Bee Budget](https://github.com/wymdev/beebudget.git)** | Looking for co-builders, join in |
 | 🌐 | **[Portfolio](https://www.waiyanmaing.space)** | All projects, live and in one place |
 
 </td>
@@ -112,15 +142,31 @@ status: "Open to interesting problems"
 
 <div align="center">
 
+### 💼 Career Timeline
+
+```
+2025–Now    AI Solution Architect & Research Developer   @ Thai Beverage PCL
+2023–2025   Software Development Executive                @ Grand Royal Group International
+2023        Senior Team Lead                               @ DirAce Technology (Japan)
+2018–2023   Web Developer → Full-Stack Dev → Team Leader   @ AGGA.IO
+```
+
+</div>
+
+<br/>
+
+<div align="center">
+
 ### 💬 Let's Connect
 
 <a href="mailto:waiyanmaing.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.waiyanmaing.space"><img src="https://img.shields.io/badge/Portfolio-00F5D4?style=for-the-badge&logo=googlechrome&logoColor=black"/></a>
+<a href="https://play.google.com/store/apps/details?id=com.xynotechmm.beebudget"><img src="https://img.shields.io/badge/Bee%20Budget-Google%20Play-414141?style=for-the-badge&logo=googleplay&logoColor=00F5D4"/></a>
 <a href="https://www.hackerrank.com/certificates/5d2335dc3bfb"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
 
 <br/><br/>
 
-<i>"Ask me about React Native, Laravel, Node, or React — happy to talk shop."</i>
+<i>"Ask me about React, React Native, Laravel, Node.js, or AI/Computer Vision systems."</i>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243E,50:302B63,100:0F0C29&height=100&section=footer" width="100%"/>
 
